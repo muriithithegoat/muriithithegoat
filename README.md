@@ -14,9 +14,9 @@ I'm a passionate **frontend & backend developer** looking to collaborate on exci
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 
 ## 📬 Connect with Me
-[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Twitter](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4thandgame_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muriithithegoat)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muriithithegoat)
 
 
